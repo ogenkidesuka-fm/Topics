@@ -1,0 +1,26 @@
+# vol.06 - Webと複雑GUIとa11yとOOUI
+
+- 雑談
+  - [JSconf JP - yamanokuさんのセッション](https://jsconf.jp/2021/talk/the-past-and-future-of-accessible-front-end-development)
+  - [深澤直人　「ふつう」](https://www.amazon.co.jp/dp/4903097625)
+  - 鎌倉大仏、由比ヶ浜
+- [Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
+  - PhotoshopがWebで動くのすごい
+  - AdobeはWebに投資している
+  - 自分たちもちゃんとやっていかないとな
+- 複雑GUIとアクセシビリティ
+  - [自動勉強会 vol.5 GUIアクセシビリティ対応](https://scrapbox.io/guiland/%E8%87%AA%E5%8B%95%E5%8B%89%E5%BC%B7%E4%BC%9A_vol.5_GUI%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E5%AF%BE%E5%BF%9C)
+  - [マウスで位置変更できるダイアログのアクセシビリティ対応](https://github.com/kufu/smarthr-ui/pull/1967)
+  - [複雑GUI会への参加方法](https://scrapbox.io/guiland/%E6%A6%82%E8%A6%81%E3%81%A8%E5%8F%82%E5%8A%A0%E6%96%B9%E6%B3%95)
+- OOUIへのお気持ち表明
+  - あくまでも選択肢の一つだよね
+  - [OOUIの本](https://gihyo.jp/book/2020/978-4-297-11351-3)
+  - [インタフェースデザインの心理学](https://www.oreilly.co.jp/books/9784873115573/)
+  - [Every Layout](https://www.borndigital.co.jp/book/24204.html)
+- アドベントカレンダー
+  - そろそろ季節だよね
+  - [アクセシビリティのアドベントカレンダー](https://adventar.org/calendars/6197)
+  - adventarはいろんなアドベントカレンダーがあっていいよね
+    - https://adventar.org/calendars/6616
+    - https://adventar.org/calendars/6638
+- 次回は2021年振り返り回
