@@ -1,0 +1,33 @@
+- https://github.com/ogenkidesuka-fm/Topics/issues/29
+- https://anchor.fm/ogenkidesuka-fm/episodes/vol-14---lacolaco-e1knvfs
+  - vol.14 - 【ゲスト：lacolaco】ソフトウェアエンジニアよ、哲学を学ぼう by お元気ですか.fm
+  - https://github.com/ogenkidesuka-fm/Topics/blob/main/vol14.md
+- https://www.pokemon.co.jp/
+- https://github.com/storybookjs/storybook/pull/21021#pullrequestreview-1301933994
+- https://note.com/takanorip/n/n08b525f579ee
+- https://twitter.com/cloud10designs
+- https://twitter.com/magi1125
+- https://blog.lacolaco.net/
+- lacolaco/tech
+- https://gohugo.io/
+- https://primer.style/
+- https://blog.takanorip.com/
+- https://archives.yamanoku.net/
+- https://blog.takanorip.com/posts/2020-06-30-init2020/
+- https://blog.lacolaco.net/2022/02/notion-headless-cms-1/
+- https://blog.takanorip.com/posts/2020-07-08-medium-11ty/
+- https://forest.watch.impress.co.jp/docs/news/1398933.html
+- https://emmet.io/
+- https://scrapbox.io/lacolaco/ActivityPub
+- https://twitter.com/f_subal/status/1621868172533202944
+- https://github.com/lacolaco/activitypub.lacolaco.net
+- https://activitypub.lacolaco.net/@lacolaco
+- https://www.itmedia.co.jp/news/articles/1711/15/news124.html
+- https://ja.wordpress.org/plugins/activitypub/
+- https://zenn.dev/tkithrta/articles/9069279e1a3a1e
+- https://activitypub.lacolaco.net/@lacolaco
+- https://twitter.com/shonanpen/status/1630054794433040385
+- https://misskey.art/
+- https://sushi.ski/
+- https://github.com/misskey-dev/misskey
+- https://humungus.tedunangst.com/r/honk
